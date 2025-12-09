@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="auto"/>
-  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="auto"/>
+  <h1>Hi there, I'm [Chen Yun] 👋</h1>
   <h3>🚀 Robotics Software Engineer | 🤖 RL Researcher</h3>
   
   <p>
@@ -91,8 +91,8 @@ Here are some ideas to get you started:
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chan-yuu&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chan-yuu&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
 ---
