@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Chen Yun / chan-yuu
+# Hi there 👋, I'm Chen Yun
 
 ## 🚀 About Me  
 I’m a autodrive & RL developer focusing on mobile robot navigation and manipulation in unstructured environments.  
@@ -9,9 +9,9 @@ I specialize in tackling Sim2Real transfer challenges and spatiotemporal synchro
 ## 🛠️ Technical Arsenal  
 
 ### Core Domain Technologies  
-- **SLAM & Perception** — ROS / ROS2, LIO-SAM, FAST-LIO2, GTSAM, PCL, Ceres  
 - **RL & AI** — PyTorch, Gymnasium, Stable-Baselines3 (or other RL toolkits)  
 - **Simulation & Dev** — Gazebo, Docker, CMake, ROS-Middleware / Bridging  
+- **SLAM & Perception** — ROS / ROS2, LIO-SAM, FAST-LIO2, GTSAM, PCL, Ceres  
 
 ---
 
