@@ -1,28 +1,20 @@
-## Hi there 👋
-
-<!--
-**chan-yuu/chan-yuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="auto"/>
-  <h1>Hi there, I'm [Chen Yun] 👋</h1>
-  <h3>🚀 Robotics Software Engineer | 🤖 RL Researcher</h3>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="auto"/>
   
+  <h1>Hi there, I'm Chen Yun 👋</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Robotics+Software+Engineer;Reinforcement+Learning+Researcher;ROS+2+%26+Gazebo+Developer;Lidar-Inertial+SLAM+Specialist" alt="Typing SVG" />
+  </a>
+
   <p>
     专注由于 <b>ROS 2</b>, <b>Sim2Real 强化学习</b>, 以及 <b>多传感器融合 SLAM</b>.
     <br>
     目前致力于解决非结构化环境下的复杂机器人操作与导航问题。
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=chan-yuu&label=Profile%20Views&color=0e75b6&style=flat" alt="chan-yuu" />
   </p>
 
   <p>
@@ -32,7 +24,7 @@ Here are some ideas to get you started:
     <a href="https://linkedin.com/in/your-profile">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://your-blog-website.com">
+    <a href="https://your-blog.com">
       <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
   </p>
@@ -66,7 +58,7 @@ Here are some ideas to get you started:
     * 设计了基于 HRL 的分层决策架构，解决了稀疏奖励问题。
     * 在 Gazebo 中搭建了高保真仿真环境，实现了 Sim2Real 的无缝迁移。
     * 集成 `nav2` 进行全局路径规划，利用 RL 进行局部避障和精准操作。
-* [🔗 View Code](#) *(这里放你的项目链接，如果是私有的可以放演示GIF)*
+* [🔗 View Code](#) *(记得替换为你的项目链接)*
 
 #### 2. Robust Lidar-Inertial SLAM System
 > *基于 LIO-SAM 的多传感器融合建图系统适配*
@@ -93,6 +85,11 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chan-yuu&show_icons=true&theme=radical" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chan-yuu&layout=compact&theme=radical" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chan-yuu&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
