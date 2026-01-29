@@ -44,7 +44,7 @@ I specialize in tackling Sim2Real transfer challenges and spatiotemporal synchro
 
 ## 📫 Contact / Connect  
 - GitHub: @chan-yuu  
-- (Optional) Email / Other socials: …  
+- Email / Other socials: cyun@tju.edu.cn
 
 ---
 
