@@ -27,11 +27,12 @@ I specialize in tackling Sim2Real transfer challenges and spatiotemporal synchro
 
 ---
 
-## 📈 GitHub Stats  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chan-yuu)](https://github.com/chan-yuu)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chan-yuu&layout=compact)](https://github.com/chan-yuu)
-
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chan-yuu&show_icons=true&theme=radical&cache_seconds=1800" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chan-yuu&layout=compact&theme=radical&cache_seconds=1800" />
+</div>
 
 ---
 
