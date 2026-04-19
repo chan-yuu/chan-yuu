@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Chen Yun
 
 ## 🚀 About Me  
-I’m a autodrive & RL developer focusing on mobile robot navigation and manipulation in unstructured environments.  
+I'm a autodrive & RL developer focusing on mobile robot navigation and manipulation in unstructured environments.  
 I specialize in tackling Sim2Real transfer challenges and spatiotemporal synchronization & sensor fusion (Lidar / IMU / GNSS).
 
 ---
@@ -35,7 +35,16 @@ I specialize in tackling Sim2Real transfer challenges and spatiotemporal synchro
 
 ---
 
-## 🎯 What I’m Doing / Learning  
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chan-yuu/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chan-yuu/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+---
+
+## 🎯 What I'm Doing / Learning  
 - Continually improving robotics navigation / perception under challenging real-world conditions  
 - Exploring advanced RL-based manipulation and multi-sensor fusion systems  
 - Open to collaboration, discussion, or any interesting robotics / AI projects  
@@ -48,4 +57,4 @@ I specialize in tackling Sim2Real transfer challenges and spatiotemporal synchro
 
 ---
 
-> “Translating Sensor Data into Intelligent Action.”  
+> "Translating Sensor Data into Intelligent Action."
