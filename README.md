@@ -2,9 +2,10 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chan-yuu)](https://github.com/chan-yuu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chan-yuu&layout=compact)](https://github.com/chan-yuu)
+[![GitHub Stats](https://github-readme-stats-zeta-two-82.vercel.app/api?username=chan-yuu)](https://github.com/chan-yuu)
+
+[![Top Langs](https://github-readme-stats-zeta-two-82.vercel.app/api/top-langs/?username=chan-yuu&layout=compact)](https://github.com/chan-yuu)
 
 ## 🐍 Contribution Snake
 
