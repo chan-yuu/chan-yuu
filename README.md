@@ -39,8 +39,6 @@ I specialize in tackling Sim2Real transfer challenges and spatiotemporal synchro
 | **Autonomous Forklift Navigation & Manipulation (RL)** | Hierarchical RL based forklift navigation → pick → place. Supports long-sequence tasks in simulation (ROS2 + Gazebo + PyTorch + PPO + Behavior Tree), with Sim2Real pipeline. |
 | **Sensor Calibration & Tools** | Multi-sensor extrinsic calibration + ROS1/ROS2 bridging + GPS → NavSatFix conversion & time-sync toolset (FAST-LIO2 + Ceres + bridging nodes). |
 
-> _Add more projects here — public repos, forks, labs, or demos you find important._
-
 ---
 
 ## 🎯 What I'm Doing / Learning  
